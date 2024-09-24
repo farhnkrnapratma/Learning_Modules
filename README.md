@@ -1,5 +1,7 @@
 # Programming Language Learning Module of Indo Global Mandiri University IT Students (PLLMIGMUITS)
 
+![MIT License](https://img.shields.io/github/license/farhnkrnapratma/PLLMIGMUITS) ![Language](https://img.shields.io/github/languages/count/farhnkrnapratma/PLLMIGMUITS) ![Top Language](https://img.shields.io/github/languages/top/farhnkrnapratma/PLLMIGMUITS) ![File Count](https://img.shields.io/github/directory-file-count/farhnkrnapratma/PLLMIGMUITS) ![Commit Activity](https://img.shields.io/github/commit-activity/w/farhnkrnapratma/PLLMIGMUITS) ![Contributors](https://img.shields.io/github/contributors/farhnkrnapratma/PLLMIGMUITS)
+
 ```
 $ git clone https://github.com/farhnkrnapratma/PLLMIGMUITS.git
 ```
@@ -67,6 +69,10 @@ println("Hello, World!")
 ```
 
 This folder contains Kotlin programming language learning modules.
+
+---
+
+
 
 ---
 
