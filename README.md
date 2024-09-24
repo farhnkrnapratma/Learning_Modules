@@ -72,8 +72,4 @@ This folder contains Kotlin programming language learning modules.
 
 ---
 
-
-
----
-
 &copy; 2024 IT Students of Indo Global Mandiri Students
